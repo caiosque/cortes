@@ -1,0 +1,21 @@
+ {
+    "id": 1,
+    "nome": "Corte Clássico",
+    "descricao": "Corte tradicional na tesoura e máquina",
+    "preco": 35.0,
+    "imagem": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a"
+  },
+  {
+    "id": 2,
+    "nome": "Fade Degradê",
+    "descricao": "Degradê moderno com acabamento preciso",
+    "preco": 45.0,
+    "imagem": "https://images.unsplash.com/photo-1621605810052-809f9c6eec4f"
+  },
+  {
+    "id": 3,
+    "nome": "Corte + Barba",
+    "descricao": "Corte completo com barba desenhada",
+    "preco": 60.0,
+    "imagem": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c"
+  }
