@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "nome": "Barbearia do João",
+    "endereco": "Centro"
+  },
+  {
+    "id": "2",
+    "nome": "Barber Style",
+    "endereco": "Bairro Santo Antônio"
+  },
+  {
+    "id": "3",
+    "nome": "Corte Fino",
+    "endereco": "Parque Piauí"
+  }
+]
